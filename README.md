@@ -45,6 +45,8 @@
 - :calling: Phone: [![Linkedin Badge](https://img.shields.io/badge/-Phone-white?style=flat&logo=call&logoColor=black)](tel:+905312354229) [![Linkedin Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/905312354229)
 
 - 🔭 I’m currently working on Bilen Software in Edinburgh, UK
+- 🔭 You can check my personal portfolio and my blog posts at <a href="https://tugrulyildirim.com" target="_blank">tugrulyildirim.com</a>
+- ⚡ Fun fact: I ❤️ horses and science fiction movies ..
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -80,9 +82,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developertugrul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <!--
 **developertugrul/developertugrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
