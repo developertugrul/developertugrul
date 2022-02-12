@@ -12,13 +12,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Freelancer php web developer Tuğrul Yıldırım's Twitter page"/>
   </a>
   <a href="https://www.instagram.com/dev_tugrul/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Freelancer php web developer Tuğrul Yıldırım's Twitter page"/>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Freelancer php web developer Tuğrul Yıldırım's Instagram page"/>
   </a>
   <a href="https://www.facebook.com/devtugrul">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Freelancer php web developer Tuğrul Yıldırım's Facebook page"/>
   </a>
   <a href="https://wa.me/905312354229">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Freelancer php web developer Tuğrul Yıldırım's Facebook page"/>
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Freelancer php web developer Tuğrul Yıldırım's Whatsapp page"/>
   </a>
 </div>
 <div id="badges" align="center">
@@ -81,6 +81,44 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=developertugrul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developertugrul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## FAQ
+
+#### Why Work With a Freelance Developer?
+
+Freelance software services come to the fore more, as both quality and secure software solutions are offered, as well as projects that are priced at affordable prices.
+
+#### How is Freelance Project Cost Calculated?
+
+After the needs of our customers are determined, project planning is done. The duration of the planned project directly affects the labor prices. Fee reductions are made for projects that require long-term work.
+
+#### How Is The Customer Informed During Project Construction?
+
+They follow the developments related to the projects of the customers on the website with the customer information given to them.
+
+#### Do We Have The Right To Revise Website Designs?
+
+It provides unlimited revision rights in website and mobile application designs. It is possible to work on the design until all your worries are eliminated.
+
+## Support
+
+For support, [email](mailto:contact@tugrulyildirim.com) or [WhatsApp](https://wa.me/905312354229)
+## Used By
+
+My Softwares are used by the following companies:
+
+- Cafe Vigo
+- Emirsoy Stud
+- Bilen Software
+- Edinburgh Castle Apartments
+- Hanover 71 Suites
+- Digi Norm
+- Trusted Teller
+- Getboarded
+- Crypto Etymology
+
+
 
 <!--
 **developertugrul/developertugrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
