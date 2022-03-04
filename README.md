@@ -42,7 +42,7 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles, run, play video games and create projects that I liked on Product Hunt.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tugrulyildirim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tugrulyildirim/)
 - :love_letter: E-mail: [![Linkedin Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=superuser&logoColor=white)](mailto:contact@tugrulyildirim.com)
-- :calling: Phone: [![Linkedin Badge](https://img.shields.io/badge/-Phone-white?style=flat&logo=call&logoColor=black)](tel:+905312354229) [![Linkedin Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/905312354229)
+- :calling: Phone: [![Linkedin Badge](https://img.shields.io/badge/-Phone-white?style=flat&logo=call&logoColor=black)](callto:+905312354229) [![Linkedin Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/905312354229)
 
 - 🔭 I’m currently working on Bilen Software in Edinburgh, UK
 - 🔭 You can check my personal portfolio and my blog posts at <a href="https://tugrulyildirim.com" target="_blank">tugrulyildirim.com</a>
