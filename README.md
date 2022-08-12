@@ -117,6 +117,12 @@ My Softwares are used by the following companies:
 - Trusted Teller
 - Getboarded
 - Crypto Etymology
+- Diginorm
+- Kuzey Marmara Sanayi ve Teknoloji Vadisi
+- yaryond.net
+- savory.cafe
+- chokqu.net
+- etugen.dev
 
 
 
