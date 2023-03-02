@@ -100,6 +100,10 @@ It provides unlimited revision rights in website and mobile application designs.
 ## Support
 
 For support, [email](mailto:contact@tugrulyildirim.com) or [WhatsApp](https://wa.me/905312354229)
+
+<a href="https://app.daily.dev/tugrulyildirim"><img src="https://api.daily.dev/devcards/425da91958ef4cbf91048361544286bc.png?r=hfd" width="400" alt="tugrulyildirim.com's Dev Card"/></a>
+
+
 ## Used By
 
 My Softwares are used by the following companies:
