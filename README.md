@@ -44,7 +44,7 @@
 - :love_letter: E-mail: [![Linkedin Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=superuser&logoColor=white)](mailto:contact@tugrulyildirim.com)
 - :calling: Phone: [![Linkedin Badge](https://img.shields.io/badge/-Phone-white?style=flat&logo=call&logoColor=black)](tel:+905312354229) [![Linkedin Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/905312354229)
 
-- 🔭 I’m currently working on Bilen Software in Edinburgh, UK
+- 🔭 I’m currently working on Vin-ERP(TR) and Chokqu LTD(UK)
 - 🔭 You can check my personal portfolio and my blog posts at <a href="https://tugrulyildirim.com" target="_blank">tugrulyildirim.com</a>
 - ⚡ Fun fact: I ❤️ horses and science fiction movies ..
 - [![wakatime](https://wakatime.com/badge/user/4acbb3eb-8728-43a2-b2a7-650b99dec39a.svg)](https://wakatime.com/@4acbb3eb-8728-43a2-b2a7-650b99dec39a)
