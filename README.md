@@ -1,6 +1,3 @@
-<div id="top" align="center">
-[![wakatime](https://wakatime.com/badge/user/4acbb3eb-8728-43a2-b2a7-650b99dec39a.svg)](https://wakatime.com/@4acbb3eb-8728-43a2-b2a7-650b99dec39a)
-</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -50,6 +47,7 @@
 - 🔭 I’m currently working on Bilen Software in Edinburgh, UK
 - 🔭 You can check my personal portfolio and my blog posts at <a href="https://tugrulyildirim.com" target="_blank">tugrulyildirim.com</a>
 - ⚡ Fun fact: I ❤️ horses and science fiction movies ..
+- [![wakatime](https://wakatime.com/badge/user/4acbb3eb-8728-43a2-b2a7-650b99dec39a.svg)](https://wakatime.com/@4acbb3eb-8728-43a2-b2a7-650b99dec39a)
 
 ### :hammer_and_wrench: Languages and Tools :
 
