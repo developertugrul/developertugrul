@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  [![wakatime](https://wakatime.com/badge/user/4acbb3eb-8728-43a2-b2a7-650b99dec39a.svg)](https://wakatime.com/@4acbb3eb-8728-43a2-b2a7-650b99dec39a)
+<div id="top" align="center">
+[![wakatime](https://wakatime.com/badge/user/4acbb3eb-8728-43a2-b2a7-650b99dec39a.svg)](https://wakatime.com/@4acbb3eb-8728-43a2-b2a7-650b99dec39a)
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
