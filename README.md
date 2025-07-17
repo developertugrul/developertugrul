@@ -63,9 +63,10 @@ With over a decade of experience in full-stack development, I specialize in buil
 
 ## 🔭 Current Projects
 - **Vin-ERP (TR)**: Comprehensive ERP solution with AI-powered inventory forecasting
-- **Chokqu LTD (UK)**: Flutter-based e-commerce platform with ChatGPT product recommendations
+- **Chokqu LTD **: Laravel-based e-commerce platform with AI support
 - **AI-CRM Framework**: Modular CRM system with integrated Gemini AI assistants
 - **Smart ERP Toolkit**: Laravel package for rapid ERP development
+- **Cafe Order & Management System: Laravel RestAPI based flutter app
 
 ---
 
